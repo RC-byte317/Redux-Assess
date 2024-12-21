@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 14",
+        "price": "₹79,999",
+        "features": "6.1-inch display, 128GB storage, 12MP camera, Face ID",
+        "ratings": "4.5/5"
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy S22",
+        "price": "₹99,999",
+        "features": "6.2-inch OLED display, 128GB storage, 50MP camera, 5G connectivity",
+        "ratings": "4.7/5"
+      },
+      {
+        "id": 3,
+        "name": "Google Pixel 7",
+        "price": "₹59,999",
+        "features": "6.3-inch OLED display, 128GB storage, 50MP camera, 5G connectivity",
+        "ratings": "4.8/5"
+      },
+      {
+        "id": 4,
+        "name": "OnePlus 10 Pro",
+        "price": "₹89,999",
+        "features": "6.7-inch AMOLED display, 256GB storage, 48MP camera, 5G connectivity",
+        "ratings": "4.6/5"
+      },
+      {
+        "id": 5,
+        "name": "Xiaomi Mi 11",
+        "price": "₹74,999",
+        "features": "6.81-inch AMOLED display, 128GB storage, 108MP camera, 5G connectivity",
+        "ratings": "4.4/5"
+      }
+    ]
+  }
+  
